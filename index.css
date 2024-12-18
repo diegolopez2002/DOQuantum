@@ -1,0 +1,36 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  box-sizing: border-box;
+  overflow: auto;
+  overflow-x: hidden;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  scrollbar-width: none;
+  overscroll-behavior: contain;
+  -ms-overflow-style: none; /* For IE and Edge */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #100F1C;
+}
+
+App {
+  max-height: 100vh;
+}
+
+p {
+  font-size: 1rem;
+  line-height: 1.5;
+  color: #a5b4fc;
+}
+
+input, textarea {
+  outline: none;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
