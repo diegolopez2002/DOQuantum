@@ -1,0 +1,9 @@
+https://nodejs.org/en (add to system environment vailable PATH)
+npm install three (into git bash after restarting vscode)
+npm install web-vitals
+npm install react-helmet (for SEO)
+
+To start:
+1. open git bash
+2. make sure you are in the "my-app" folder 
+3. type "npm start" and press enter

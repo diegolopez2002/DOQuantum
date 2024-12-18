@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../website/website/node_modules"
+		},
+		{
+			"path": "../../website/website/my-app"
+		}
+	],
+	"settings": {}
+}
